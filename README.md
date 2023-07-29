@@ -2,7 +2,7 @@
 Unreal engine tryouts
 
 
-#First Mechanic
+# First Mechanic
 
 - This was mechanic of the creating some kind of dungeon style map. I wanted to make it random, so my rules were to create something basic like binding of isaac. 4 doors to next room , choose the next door to reveal the dungeon further and further.
 - This was my first c++ project on unreal so i was beginning to understand basics. First thing was to figure out components so i created the interactable component to be added on my "Next Room Button". Then the next room button created and now i can fire events from my interactable "NextRoomButton" actor when a player is in trigger distance.
